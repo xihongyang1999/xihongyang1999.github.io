@@ -24,8 +24,8 @@ My research interests include graph neural networks, recommender system, multi-v
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉🎉 One paper has been accepted by ICDE 2025. 
+- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students. 
 
 # 📝 Publications 
 
