@@ -54,7 +54,7 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box-text' markdown="1">
 
 [DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System](https://arxiv.org/pdf/2408.08231) 
-**Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Eexue Min
+**Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Erxue Min
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In our method, we propose a novel plug-and-play alignment framework for LLMs and collaborative models.
 - We prove that reducing the gap to zero between collaborative models and LLMs may not always benefit the performance when the gap between two models is large.
@@ -66,13 +66,21 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box-text' markdown="1">
 
 [GraphLearner: Graph Node Clustering with  Fully Learnable Augmentation](https://dl.acm.org/doi/abs/10.1145/3664647.3680602) | [**Code**](https://github.com/xihongyang1999/GraphLearner) 
-**Xihong Yang**, Eexue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, Xinwang Liu, En Zhu
+**Xihong Yang**, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, Xinwang Liu, En Zhu
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In our method, we introduce learnable augmentors to generate high-quality and task-specific augmented samples for CDGC. GraphLearner incorporates two learnable augmentors specifically designed for capturing attribute and structural information. 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TKDD 2024</div><img src='images/MGCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Mixed Graph Contrastive Network for Semi-Supervised Node Classification](https://dl.acm.org/doi/abs/10.1145/3641549) | [**Code**](https://github.com/xihongyang1999/MGCN) 
+**Xihong Yang**, Yiqi Wang, Yue Liu, Yi Wen, Lingyuan Meng, Sihang Zhou, Xinwang Liu, En Zhu
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In our method, we improve the discriminative capability of the latent embeddings by an interpolation based augmentation strategy and a correlation reduction mechanism.
+</div>
+</div>
 
 
 
