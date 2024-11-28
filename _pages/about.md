@@ -52,7 +52,7 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/GraphLearner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GraphLearner: Graph Node Clustering with  Fully Learnable Augmentation](https://dl.acm.org/doi/abs/10.1145/3664647.3680602)[**Code**](https://github.com/xihongyang1999/GraphLearner) 
+[GraphLearner: Graph Node Clustering with  Fully Learnable Augmentation](https://dl.acm.org/doi/abs/10.1145/3664647.3680602) | [**Code**](https://github.com/xihongyang1999/GraphLearner) 
 **Xihong Yang**, Eexue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, Xinwang Liu, En Zhu
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In our method, we introduce learnable augmentors to generate high-quality and task-specific augmented samples for CDGC. GraphLearner incorporates two learnable augmentors specifically designed for capturing attribute and structural information. 
