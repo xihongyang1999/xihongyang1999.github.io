@@ -130,7 +130,17 @@ My research interests include graph neural networks, recommender system, multi-v
 
 
 
-- <div class="badge">ICDE</div>**Darec: A disentangled alignment framework for large language model and recommender system**, **Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Erxue Min, **CCF-A**.
+- **Darec: A disentangled alignment framework for large language model and recommender system**, **Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Erxue Min, ICDE 2025, **CCF-A**.
+- **Evaluate then Cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering**, Fangdi Wang, Jiaqi Jin, Jingtao Hu, Suyuan Liu, **Xihong Yang**, Siwei Wang, Xinwang Liu, En Zhu, NeurIPS 2024, **CCF-A**.
+- **GraphLearner: Graph Node Clustering with  Fully Learnable Augmentation**, **Xihong Yang**, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, Xinwang Liu, En Zhu, ACM MM 2024, **CCF-A**.
+- **View Gap Matters: Cross-view Topology and Information Decoupling for Multi-view Clustering**, Fangdi Wang, Jiaqi Jin, Zhibin Dong, **Xihong Yang**, Yu Feng, Xinzhong Zhu, Siwei Wang, Tianrui Liu, Xinwang Liu, En Zhu, ACM MM 2024, **CCF-A**.
+- **Test-Time Training on Graphs with Large Language Models (LLMs)**, Jiaxin Zhang, Yiqi Wang, **Xihong Yang**, Siwei Wang, Yu Feng, Yu Shi, Ruichao Ren, Xinwang Liu, En Zhu, ACM MM 2024, **CCF-A**.
+- **Improved Dual Correlation Reduction Network With Affinity Recovery**, Yue Liu, Sihang Zhou, **Xihong Yang**, Xinwang Liu, Wenxuan Tu, Liang Li, Xin Xu, Fuchun Sun, IEEE TNNLS 2024, **CCF-B**.
+- **Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering**, Suyuan Liu, Ke Liang, Zhibin Dong, Siwei Wang, **Xihong Yang**, Sihang Zhou, En Zhu, Xinwang Liu, CVPR 2024, **CCF-A**.
+- **Mixed Graph Contrastive Network for Semi-Supervised Node Classification**, **Xihong Yang**, Yiqi Wang, Yue Liu, Yi Wen, Lingyuan Meng, Sihang Zhou, Xinwang Liu, En Zhu, ACM TKDD 2024, **CCF-B**.
+- **A Fully Test-Time Training Framework for Semi-Supervised Node Classification on Out-of-Distribution Graphs**, Jiaxin Zhang, Yiqi Wang, **Xihong Yang**, En Zhu, ACM TKDD 2024, **CCF-B**.
+- **SARF: Aliasing Relation–Assisted Self-Supervised Learning for Few-Shot Relation Reasoning**, Lingyuan Meng, Ke Liang, Bin Xiao, Sihang Zhou, Yue Liu, Meng Liu, **Xihong Yang**, Xinwang Liu, Jinyan Li, IEEE TNNLS 2024, **CCF-B**.
+  
 
 
 # 💻 Internships
