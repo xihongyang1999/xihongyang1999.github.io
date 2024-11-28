@@ -149,11 +149,14 @@ My research interests include graph neural networks, recommender system, multi-v
 - DealMVC: Dual Contrastive Calibration for Multi-view Clustering, **Xihong Yang**, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, Yi Wen, Suyuan Liu, Sihang Zhou, Xinwang Liu, En Zhu, ACM MM 2023, **CCF-A**.
 - Reinforcement Graph Clustering with Unknown Cluster Number, Yue Liu, Ke Liang, Jun Xia, **Xihong Yang**, Sihang Zhou, Meng Liu, Xinwang Liu, Stan Z Li, ACM MM 2023, **CCF-A**.
 - Task-related saliency for few-shot image classification, Zhenyu Zhou, Lei Luo, Sihang Zhou, Wang Li, **Xihong Yang**, Xinwang Liu, En Zhu, IEEE TNNLS 2023, **CCF-B**.
+- Simple contrastive graph clustering, Yue Liu, **Xihong Yang**, Sihang Zhou, Xinwang Liu, IEEE TNNLS 2023, **CCF-B**
 - Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure, Ke Liang, Yue Liu, Sihang Zhou, Xinwang Liu, Wenxuan Tu, **Xihong Yang**, IEEE TKDE 2023, **CCF-A**.
 - Dink-Net: Neural Clustering on Large Graphs, Yue Liu, Ke Liang, Jun Xia, Sihang Zhou, **Xihong Yang**, Xinwang Liu, Stan Z Li, ICML 2023, **CCF-A**.
 - Patch-Mixing Contrastive Regularization for Few-Label Semi-Supervised Learning, Xiaochang Hu, Xin Xu, Yujun Zeng, **Xihong Yang**, IEEE TAI 2023.
 - Cluster-Guided Contrastive Graph Clustering Network, **Xihong Yang**, Yue Liu, Sihang Zhou, Siwei Wang, Wenxuan Tu, Qun Zheng, Xinwang Liu, Liming Fang, En Zhu, AAAI 2023, **CCF-A**.
 - Hard Sample Aware Network for Contrastive Deep Graph Clustering, Yue Liu, **Xihong Yang**, Sihang Zhou, Xinwang Liu, Zhen Wang, Ke Liang, Wenxuan Tu, Liang Li, Jingcan Duan, Cancan Chen, AAAI 2023, **CCF-A**.
+- Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning, **Xihong Yang**, Xiaochang Hu, Sihang Zhou, Xinwang Liu, En Zhu, IEEE TNNLS 2022, **CCF-B**.
+- Deep graph clustering via dual correlation reduction, Yue Liu, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, **Xihong Yang**, En Zhu, AAAI 2022, **CCF-A**.
 
 
 # 💻 Internships
