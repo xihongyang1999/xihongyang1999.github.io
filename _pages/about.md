@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D student at degree College of Computer Science and Technology, <a href="https://english.nudt.edu.cn/">National University of Defence Technology (NUDT)</a>. He is supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a> and Prof. En Zhu in Pattern Recognition & Machine Intelligence Lab (PRMI). 
+I am a Ph.D student at degree College of Computer Science and Technology, <a href="https://english.nudt.edu.cn/">National University of Defence Technology (NUDT)</a>. He is supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a> and Prof. En Zhu in Pattern Recognition \& Machine Intelligence Lab (PRMI). 
 
 My research interests include graph neural networks, recommender system, multi-view learning and LLM. I have published serveral papers at the top international AI conferences and journals, such AAAI, ICDE, NeurIPS, TNNLS...
 
@@ -25,7 +25,15 @@ My research interests include graph neural networks, recommender system, multi-v
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper has been accepted by ICDE 2025. 
-- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students. 
+- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
+- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024.
+- *2024.07*: &nbsp;🎉🎉 I was awarded the China Scholarship Countil Scholarship.
+- *2024.07*: &nbsp;🎉🎉 Three papers have been accepted by ACM MM 2024.
+- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
+- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
+- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
+- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
+- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
 
 # 📝 Publications 
 
