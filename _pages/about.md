@@ -194,11 +194,11 @@ My research interests include graph neural networks, recommender system, multi-v
 
 
 # 📖 Educations
-- *2024.11 - now*, Visiting PhD Student, <a href="https://www.nus.edu.sg/">National University of Singapore</a>, supervised by Prof. <a href="https://yuemingjin.github.io/">Yueming Jin</a>
-- *2023.03 - now*, PhD Student, <a href="https://english.nudt.edu.cn/">National University of Defence Technology</a>, supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a>
+- *2024.11 - now*, Visiting PhD Student @ <a href="https://www.nus.edu.sg/">National University of Singapore</a>, supervised by Prof. <a href="https://yuemingjin.github.io/">Yueming Jin</a>
+- *2023.03 - now*, PhD Student @ <a href="https://english.nudt.edu.cn/">National University of Defence Technology</a>, supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a>
 - *2023.07 - 2024.03*, Visiting Student @ <a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a> supervised by Prof. <a href="https://scholar.google.com/citations?user=QW0ad4sAAAAJ&hl=zh-CN&oi=ao">Defu Lian</a>.
 - *2022.12 - 2024.02*, Visiting Student @ <a href="https://en.westlake.edu.cn/">Westlake University</a>, working with <a href="https://scholar.google.com/citations?user=6kTV6aMAAAAJ&hl=zh-CN">Cheng Tan</a>, supervised by Prof. <a href="https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao">Stan Z. Li</a>.
-- *2021.09 - 2023.02*, Master Student, <a href="https://english.nudt.edu.cn/">National University of Defence Technology</a>, supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a>
+- *2021.09 - 2023.02*, Master Student @ <a href="https://english.nudt.edu.cn/">National University of Defence Technology</a>, supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a>
 
 
 # 💬 Invited Talks
