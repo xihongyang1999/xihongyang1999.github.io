@@ -132,12 +132,21 @@ My research interests include graph neural networks, recommender system, multi-v
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
+# 💻 Internships
+- *2024.03 - 2024.11*, [Baidu](https://home.baidu.com/), China.
+- *2020.09 - 2020.11*, [PICO](https://www.picoxr.com/cn), China.
+
 # 🎖 Honors and Awards
 - *2024.11* I won the China National Scholarship for Phd Students.
 - *2024.07* I was awarded the China Scholarship Countil Scholarship.
 - *2022.11* I won the China National Scholarship for Graduate Students.
 - *2020.11* I won the China National Scholarship for Undergraduate Students.
- 
+
+# 💻 Services
+- PC for Conference:
+- PC for Journal:
+
 
 # 📖 Educations
 - *2024.11 - now*, Visiting PhD Student, <a href="https://www.nus.edu.sg/">National University of Singapore</a>, supervised by Prof. <a href="https://yuemingjin.github.io/">Yueming Jin</a>
@@ -148,8 +157,6 @@ My research interests include graph neural networks, recommender system, multi-v
 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.10*, ACM MM Oral Presentation.
+- *2022.11*, AAAI Oral Presentation.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
