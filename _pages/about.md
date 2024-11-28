@@ -49,6 +49,19 @@ My research interests include graph neural networks, recommender system, multi-v
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='images/ICDE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System](https://arxiv.org/pdf/2408.08231) 
+**Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Eexue Min
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In our method, we propose a novel plug-and-play alignment framework for LLMs and collaborative models.
+- We prove that reducing the gap to zero between collaborative models and LLMs may not always benefit the performance when the gap between two models is large.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/GraphLearner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,6 +71,8 @@ My research interests include graph neural networks, recommender system, multi-v
 - In our method, we introduce learnable augmentors to generate high-quality and task-specific augmented samples for CDGC. GraphLearner incorporates two learnable augmentors specifically designed for capturing attribute and structural information. 
 </div>
 </div>
+
+
 
 
 
