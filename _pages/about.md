@@ -53,7 +53,9 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='images/ICDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System](https://arxiv.org/pdf/2408.08231) 
+[DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System]
+
+[**Paper**](https://arxiv.org/pdf/2408.08231) 
 
 **Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Erxue Min
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -65,7 +67,9 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/GraphLearner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GraphLearner: Graph Node Clustering with  Fully Learnable Augmentation](https://dl.acm.org/doi/abs/10.1145/3664647.3680602) | [**Code**](https://github.com/xihongyang1999/GraphLearner) 
+[GraphLearner: Graph Node Clustering with  Fully Learnable Augmentation] 
+
+[**Paper**](https://dl.acm.org/doi/abs/10.1145/3664647.3680602) | [**Code**](https://github.com/xihongyang1999/GraphLearner) 
 **Xihong Yang**, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, Xinwang Liu, En Zhu
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In our method, we introduce learnable augmentors to generate high-quality and task-specific augmented samples for CDGC. GraphLearner incorporates two learnable augmentors specifically designed for capturing attribute and structural information. 
@@ -75,7 +79,9 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TKDD 2024</div><img src='images/MGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mixed Graph Contrastive Network for Semi-Supervised Node Classification](https://dl.acm.org/doi/abs/10.1145/3641549) | [**Code**](https://github.com/xihongyang1999/MGCN) 
+[Mixed Graph Contrastive Network for Semi-Supervised Node Classification]
+
+[**Paper**](https://dl.acm.org/doi/abs/10.1145/3641549) | [**Code**](https://github.com/xihongyang1999/MGCN) 
 
 **Xihong Yang**, Yiqi Wang, Yue Liu, Yi Wen, Lingyuan Meng, Sihang Zhou, Xinwang Liu, En Zhu
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -86,7 +92,9 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/convert.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CONVERT: Contrastive Graph Clustering with Reliable Augmentation](https://arxiv.org/pdf/2308.08963.pdf) | [**Code**](https://github.com/xihongyang1999/CONVERT) 
+[CONVERT: Contrastive Graph Clustering with Reliable Augmentation]
+
+[**Paper**](https://arxiv.org/pdf/2308.08963.pdf) | [**Code**](https://github.com/xihongyang1999/CONVERT) 
 
 **Xihong Yang**, Cheng Tan, Yue Liu, Ke Liang, Sihang Zhou, Siwei Wang, Jun Xia, Stan Z.Li, Xinwang Liu, En Zhu
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -97,7 +105,9 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/dealmvc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DealMVC: Dual Contrastive Calibration for Multi-view Clustering](https://arxiv.org/pdf/2308.09000) | [**Code**](https://github.com/xihongyang1999/DealMVC) 
+[DealMVC: Dual Contrastive Calibration for Multi-view Clustering]
+
+[**Paper**](https://arxiv.org/pdf/2308.09000) | [**Code**](https://github.com/xihongyang1999/DealMVC) 
 
 **Xihong Yang**, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, Yi Wen, Suyuan Liu, Sihang Zhou, Xinwang Liu, En Zhu
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -108,7 +118,9 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/yang_CCGC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cluster-guided Contrastive Graph Clustering Network](https://ojs.aaai.org/index.php/AAAI/article/download/26285/26057) | [**Code**](https://github.com/xihongyang1999/CCGC) 
+[Cluster-guided Contrastive Graph Clustering Network]
+
+[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/download/26285/26057) | [**Code**](https://github.com/xihongyang1999/CCGC) 
 
 **Xihong Yang**, Yue Liu, Sihang Zhou, Siwei Wang, Wenxuan Tu, Qun Zheng, Xinwang Liu, Liming Fang, En Zhu
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -119,7 +131,9 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/ICL_SSL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9817089/) | [**Code**](https://github.com/xihongyang1999/ICL_SSL) 
+[Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning]
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/9817089/) | [**Code**](https://github.com/xihongyang1999/ICL_SSL) 
 
 **Xihong Yang**, Xiaochang Hu, Sihang Zhou, Xinwang Liu, En Zhu
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
