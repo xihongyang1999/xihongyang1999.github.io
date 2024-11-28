@@ -119,7 +119,7 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/ICL_SSL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning] (https://ieeexplore.ieee.org/abstract/document/9817089/) | [**Code**](https://github.com/xihongyang1999/ICL_SSL) 
+[Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9817089/) | [**Code**](https://github.com/xihongyang1999/ICL_SSL) 
 
 **Xihong Yang**, Xiaochang Hu, Sihang Zhou, Xinwang Liu, En Zhu
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
