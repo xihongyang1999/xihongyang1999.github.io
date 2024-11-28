@@ -29,11 +29,23 @@ My research interests include graph neural networks, recommender system, multi-v
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024.
 - *2024.07*: &nbsp;🎉🎉 I was awarded the China Scholarship Countil Scholarship.
 - *2024.07*: &nbsp;🎉🎉 Three papers have been accepted by ACM MM 2024.
-- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
-- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
-- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
-- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
-- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
+- *2024.05*: &nbsp;🎉🎉 One paper has been accepted by IEEE TNNLS 2024.
+- *2024.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2024.
+- *2024.01*: &nbsp;🎉🎉 Two papers have been accepted by ACM TKDD 2024.
+- *2024.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE TNNLS 2024.
+- *2023.12*: &nbsp;🎉🎉 Two papers have been accepted by AAAI 2024.
+- *2023.12*: &nbsp;🎉🎉 One paper has been accepted by ICDE 2024.
+- *2023.07*: &nbsp;🎉🎉 Five papers have been accepted by ACM MM 2023.
+- *2023.07*: &nbsp;🎉🎉 One paper has been accepted by IEEE TNNLS 2023.
+- *2023.06*: &nbsp;🎉🎉 One paper has been accepted by IEEE TKDE 2023.
+- *2023.04*: &nbsp;🎉🎉 One paper has been accepted by ICML 2023.
+- *2023.04*: &nbsp;🎉🎉 One paper has been accepted by IEEE TNNLS 2023.
+- *2023.04*: &nbsp;🎉🎉 One paper has been accepted by IEEE TAI 2023.
+- *2022.12*: &nbsp;🎉🎉 I won the China National Scholarship for Graduate Students.
+- *2022.11*: &nbsp;🎉🎉 Two papers have been accepted by AAAI 2023.
+- *2022.06*: &nbsp;🎉🎉 One paper has been accepted by IEEE TNNLS 2022.
+- *2021.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2022.
+- *2020.12*: &nbsp;🎉🎉 I won the China National Scholarship for Undergraduate Students.
 
 # 📝 Publications 
 
