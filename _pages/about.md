@@ -130,7 +130,7 @@ My research interests include graph neural networks, recommender system, multi-v
 
 
 
-- <div class="badge">TNNLS 2022</div>[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <div class="badge">ICDE</div>**Darec: A disentangled alignment framework for large language model and recommender system**, **Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Erxue Min, **CCF-A**.
 
 
 # 💻 Internships
