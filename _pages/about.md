@@ -105,6 +105,29 @@ My research interests include graph neural networks, recommender system, multi-v
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/yang_CCGC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cluster-guided Contrastive Graph Clustering Network(https://ojs.aaai.org/index.php/AAAI/article/download/26285/26057) | [**Code**](https://github.com/xihongyang1999/CCGC) 
+
+**Xihong Yang**, Yue Liu, Sihang Zhou, Siwei Wang, Wenxuan Tu, Qun Zheng, Xinwang Liu, Liming Fang, En Zhu
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Contrastive deep Graph Clustering network (CCGC) is proposed by mining the intrinsic supervision information in the high-confidence clustering results.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/ICL_SSL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning (https://ieeexplore.ieee.org/abstract/document/9817089/) | [**Code**](https://github.com/xihongyang1999/ICL_SSL) 
+
+**Xihong Yang**, Xiaochang Hu, Sihang Zhou, Xinwang Liu, En Zhu
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we propose an interpolation-based method to construct more reliable positive sample pairs;
+- we design a novel contrastive loss to guide the embedding of the learned network to change linearly between samples so as to improve the discriminative capability of the network by enlarging the margin decision boundaries.
+</div>
+</div>
+
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
