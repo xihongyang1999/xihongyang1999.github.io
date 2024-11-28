@@ -94,6 +94,17 @@ My research interests include graph neural networks, recommender system, multi-v
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/dealmvc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DealMVC: Dual Contrastive Calibration for Multi-view Clustering](https://arxiv.org/pdf/2308.09000) | [**Code**](https://github.com/xihongyang1999/DealMVC) 
+
+**Xihong Yang**, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, Yi Wen, Suyuan Liu, Sihang Zhou, Xinwang Liu, En Zhu
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel Dual contrastive calibration network for Multi-View Clustering (DealMVC).
+</div>
+</div>
+
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
