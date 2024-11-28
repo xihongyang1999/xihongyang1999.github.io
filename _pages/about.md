@@ -54,10 +54,10 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box-text' markdown="1">
 
 [DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System](https://arxiv.org/pdf/2408.08231) 
+
 **Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Erxue Min
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In our method, we propose a novel plug-and-play alignment framework for LLMs and collaborative models.
-- We prove that reducing the gap to zero between collaborative models and LLMs may not always benefit the performance when the gap between two models is large.
+- We prove that reducing the gap to zero between collaborative models and LLMs may not always benefit the performance when the gap between two models is large. We propose a novel plug-and-play alignment framework for LLMs and collaborative models.
 </div>
 </div>
 
@@ -76,12 +76,23 @@ My research interests include graph neural networks, recommender system, multi-v
 <div class='paper-box-text' markdown="1">
 
 [Mixed Graph Contrastive Network for Semi-Supervised Node Classification](https://dl.acm.org/doi/abs/10.1145/3641549) | [**Code**](https://github.com/xihongyang1999/MGCN) 
+
 **Xihong Yang**, Yiqi Wang, Yue Liu, Yi Wen, Lingyuan Meng, Sihang Zhou, Xinwang Liu, En Zhu
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In our method, we improve the discriminative capability of the latent embeddings by an interpolation based augmentation strategy and a correlation reduction mechanism.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/convert.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CONVERT: Contrastive Graph Clustering with Reliable Augmentation](https://arxiv.org/pdf/2308.08963.pdf) | [**Code**](https://github.com/xihongyang1999/CONVERT) 
+
+**Xihong Yang**, Cheng Tan, Yue Liu, Ke Liang, Sihang Zhou, Siwei Wang, Jun Xia, Stan Z.Li, Xinwang Liu, En Zhu
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel CONtrastiVe Graph ClustEring network with Reliable AugmenTation (COVERT).
+</div>
+</div>
 
 
 
