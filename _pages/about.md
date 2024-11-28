@@ -145,7 +145,13 @@ My research interests include graph neural networks, recommender system, multi-v
 
 # 💻 Services
 - PC for Conference:
+  ICML'23/24, ICLR'24/25, NeurIPS'23/24
+  CVPR'24/25, AAAI'23/24/25,ACM MM'23/24,
+  WWW'24, KDD'23/24, CIKM'24
+  
 - PC for Journal:
+  IEEE TNNLS/TCSVT/TKDE/TCSS
+  ACM TKDD/TOMM
 
 
 # 📖 Educations
