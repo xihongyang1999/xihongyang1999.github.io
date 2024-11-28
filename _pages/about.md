@@ -130,17 +130,30 @@ My research interests include graph neural networks, recommender system, multi-v
 
 
 
-- **Darec: A disentangled alignment framework for large language model and recommender system**, **Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Erxue Min, ICDE 2025, **CCF-A**.
-- **Evaluate then Cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering**, Fangdi Wang, Jiaqi Jin, Jingtao Hu, Suyuan Liu, **Xihong Yang**, Siwei Wang, Xinwang Liu, En Zhu, NeurIPS 2024, **CCF-A**.
-- **GraphLearner: Graph Node Clustering with  Fully Learnable Augmentation**, **Xihong Yang**, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, Xinwang Liu, En Zhu, ACM MM 2024, **CCF-A**.
-- **View Gap Matters: Cross-view Topology and Information Decoupling for Multi-view Clustering**, Fangdi Wang, Jiaqi Jin, Zhibin Dong, **Xihong Yang**, Yu Feng, Xinzhong Zhu, Siwei Wang, Tianrui Liu, Xinwang Liu, En Zhu, ACM MM 2024, **CCF-A**.
-- **Test-Time Training on Graphs with Large Language Models (LLMs)**, Jiaxin Zhang, Yiqi Wang, **Xihong Yang**, Siwei Wang, Yu Feng, Yu Shi, Ruichao Ren, Xinwang Liu, En Zhu, ACM MM 2024, **CCF-A**.
-- **Improved Dual Correlation Reduction Network With Affinity Recovery**, Yue Liu, Sihang Zhou, **Xihong Yang**, Xinwang Liu, Wenxuan Tu, Liang Li, Xin Xu, Fuchun Sun, IEEE TNNLS 2024, **CCF-B**.
-- **Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering**, Suyuan Liu, Ke Liang, Zhibin Dong, Siwei Wang, **Xihong Yang**, Sihang Zhou, En Zhu, Xinwang Liu, CVPR 2024, **CCF-A**.
-- **Mixed Graph Contrastive Network for Semi-Supervised Node Classification**, **Xihong Yang**, Yiqi Wang, Yue Liu, Yi Wen, Lingyuan Meng, Sihang Zhou, Xinwang Liu, En Zhu, ACM TKDD 2024, **CCF-B**.
-- **A Fully Test-Time Training Framework for Semi-Supervised Node Classification on Out-of-Distribution Graphs**, Jiaxin Zhang, Yiqi Wang, **Xihong Yang**, En Zhu, ACM TKDD 2024, **CCF-B**.
-- **SARF: Aliasing Relation–Assisted Self-Supervised Learning for Few-Shot Relation Reasoning**, Lingyuan Meng, Ke Liang, Bin Xiao, Sihang Zhou, Yue Liu, Meng Liu, **Xihong Yang**, Xinwang Liu, Jinyan Li, IEEE TNNLS 2024, **CCF-B**.
-  
+- Darec: A disentangled alignment framework for large language model and recommender system, **Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Erxue Min, ICDE 2025, **CCF-A**.
+- Evaluate then Cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering, Fangdi Wang, Jiaqi Jin, Jingtao Hu, Suyuan Liu, **Xihong Yang**, Siwei Wang, Xinwang Liu, En Zhu, NeurIPS 2024, **CCF-A**.
+- GraphLearner: Graph Node Clustering with  Fully Learnable Augmentation, **Xihong Yang**, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, Xinwang Liu, En Zhu, ACM MM 2024, **CCF-A**.
+- View Gap Matters: Cross-view Topology and Information Decoupling for Multi-view Clustering, Fangdi Wang, Jiaqi Jin, Zhibin Dong, **Xihong Yang**, Yu Feng, Xinzhong Zhu, Siwei Wang, Tianrui Liu, Xinwang Liu, En Zhu, ACM MM 2024, **CCF-A**.
+- Test-Time Training on Graphs with Large Language Models (LLMs), Jiaxin Zhang, Yiqi Wang, **Xihong Yang**, Siwei Wang, Yu Feng, Yu Shi, Ruichao Ren, Xinwang Liu, En Zhu, ACM MM 2024, **CCF-A**.
+- Improved Dual Correlation Reduction Network With Affinity Recovery, Yue Liu, Sihang Zhou, **Xihong Yang**, Xinwang Liu, Wenxuan Tu, Liang Li, Xin Xu, Fuchun Sun, IEEE TNNLS 2024, **CCF-B**.
+- Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering, Suyuan Liu, Ke Liang, Zhibin Dong, Siwei Wang, **Xihong Yang**, Sihang Zhou, En Zhu, Xinwang Liu, CVPR 2024, **CCF-A**.
+- Mixed Graph Contrastive Network for Semi-Supervised Node Classification, **Xihong Yang**, Yiqi Wang, Yue Liu, Yi Wen, Lingyuan Meng, Sihang Zhou, Xinwang Liu, En Zhu, ACM TKDD 2024, **CCF-B**.
+- A Fully Test-Time Training Framework for Semi-Supervised Node Classification on Out-of-Distribution Graphs, Jiaxin Zhang, Yiqi Wang, **Xihong Yang**, En Zhu, ACM TKDD 2024, **CCF-B**.
+- SARF: Aliasing Relation–Assisted Self-Supervised Learning for Few-Shot Relation Reasoning, Lingyuan Meng, Ke Liang, Bin Xiao, Sihang Zhou, Yue Liu, Meng Liu, **Xihong Yang**, Xinwang Liu, Jinyan Li, IEEE TNNLS 2024, **CCF-B**.
+- Sample-Level Cross-View Similarity Learning for Incomplete Multi-View Clustering, Suyuan Liu, Junpu Zhang, Yi Wen, **Xihong Yang**, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu, AAAI 2024, **CCF-A**.
+- Cross-gate mlp with protein complex invariant embedding is a one-shot antibody designer, Cheng Tan, Zhangyang Gao, Lirong Wu, Jun Xia, Jiangbin Zheng, **Xihong Yang**, Yue Liu, Bozhen Hu, Stan Z Li, AAAI 2024, **CCF-A**.
+- DiscoGNN: A Sample-Efficient Framework for Self-Supervised Graph Representation Learning, Jun Xia, Shaorong Chen, Yue Liu, Zhangyang Gao, Jiangbin Zheng, **Xihong Yang**, Stan Z Li, ICDE 2024, **CCF-A**.
+- Topological structure learning for weakly-supervised out-of-distribution detection, Rundong He, Rongxue Li, Zhongyi Han, **Xihong Yang**, Yilong Yin, ACM MM 2023, **CCF-A**.
+- Efficient Multi-View Graph Clustering with Local and Global Structure Preservation, Yi Wen, Suyuan Liu, Xinhang Wan, Siwei Wang, Ke Liang, Xinwang Liu, **Xihong Yang**, Pei Zhang, ACM MM 2023, **CCF-A**.
+- CONVERT: Contrastive Graph Clustering with Reliable Augmentation, **Xihong Yang**, Cheng Tan, Yue Liu, Ke Liang, Siwei Wang, Sihang Zhou, Jun Xia, Stan Z Li, Xinwang Liu, En Zhu, ACM MM 2023, **CCF-A**.
+- DealMVC: Dual Contrastive Calibration for Multi-view Clustering, **Xihong Yang**, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, Yi Wen, Suyuan Liu, Sihang Zhou, Xinwang Liu, En Zhu, ACM MM 2023, **CCF-A**.
+- Reinforcement Graph Clustering with Unknown Cluster Number, Yue Liu, Ke Liang, Jun Xia, **Xihong Yang**, Sihang Zhou, Meng Liu, Xinwang Liu, Stan Z Li, ACM MM 2023, **CCF-A**.
+- Task-related saliency for few-shot image classification, Zhenyu Zhou, Lei Luo, Sihang Zhou, Wang Li, **Xihong Yang**, Xinwang Liu, En Zhu, IEEE TNNLS 2023, **CCF-B**.
+- Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure, Ke Liang, Yue Liu, Sihang Zhou, Xinwang Liu, Wenxuan Tu, **Xihong Yang**, IEEE TKDE 2023, **CCF-A**.
+- Dink-Net: Neural Clustering on Large Graphs, Yue Liu, Ke Liang, Jun Xia, Sihang Zhou, **Xihong Yang**, Xinwang Liu, Stan Z Li, ICML 2023, **CCF-A**.
+- Patch-Mixing Contrastive Regularization for Few-Label Semi-Supervised Learning, Xiaochang Hu, Xin Xu, Yujun Zeng, **Xihong Yang**, IEEE TAI 2023.
+- Cluster-Guided Contrastive Graph Clustering Network, **Xihong Yang**, Yue Liu, Sihang Zhou, Siwei Wang, Wenxuan Tu, Qun Zheng, Xinwang Liu, Liming Fang, En Zhu, AAAI 2023, **CCF-A**.
+- Hard Sample Aware Network for Contrastive Deep Graph Clustering, Yue Liu, **Xihong Yang**, Sihang Zhou, Xinwang Liu, Zhen Wang, Ke Liang, Wenxuan Tu, Liang Li, Jingcan Duan, Cancan Chen, AAAI 2023, **CCF-A**.
 
 
 # 💻 Internships
