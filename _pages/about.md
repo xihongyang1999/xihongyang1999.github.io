@@ -24,6 +24,7 @@ My research interests include graph neural networks, recommender system, and LLM
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper has been accepted by TKDE 2025. 
 - *2024.11*: &nbsp;🎉🎉 One paper has been accepted by ICDE 2025. 
 - *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024.
@@ -48,6 +49,19 @@ My research interests include graph neural networks, recommender system, and LLM
 - *2020.12*: &nbsp;🎉🎉 I won the China National Scholarship for Undergraduate Students.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/DT3OR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dual Test-time Training for Out-of-distribution Recommender System](https://arxiv.org/pdf/2407.15620) 
+
+**Xihong Yang**, Yiqi Wang, Jin Chen, Wenqi Fan, Xiangyu Zhao, Xinwang Liu, En Zhu, Defu Lian
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We we incorporate a model adaptation mechanism during the test-time phase to carefully update the recommendation model, allowing the model to adapt specially to the shifting user and item features.
+- We propose a self-distillation task and a contrastive task to assist the model learning both the user's invariant interest preferences and the variant user/item characteristics during the test-time phase, thus facilitating a smooth adaptation to the shifting features.
+- We provide theoretical analysis to support the rationale behind our dual test-time training framework.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='images/ICDE.png' alt="sym" width="100%"></div></div>
@@ -143,6 +157,7 @@ My research interests include graph neural networks, recommender system, and LLM
 
 
 
+- Dual Test-time Training for Out-of-distribution Recommender System, **Xihong Yang**, Yiqi Wang, Jin Chen, Wenqi Fan, Xiangyu Zhao, Xinwang Liu, En Zhu, Defu Lian, TKDE 2025, **CCF-A**.
 - Darec: A disentangled alignment framework for large language model and recommender system, **Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Erxue Min, ICDE 2025, **CCF-A**.
 - Evaluate then Cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering, Fangdi Wang, Jiaqi Jin, Jingtao Hu, Suyuan Liu, **Xihong Yang**, Siwei Wang, Xinwang Liu, En Zhu, NeurIPS 2024, **CCF-A**.
 - GraphLearner: Graph Node Clustering with  Fully Learnable Augmentation, **Xihong Yang**, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, Xinwang Liu, En Zhu, ACM MM 2024, **CCF-A**.
@@ -184,9 +199,9 @@ My research interests include graph neural networks, recommender system, and LLM
 
 # 💻 Services
 - PC for Conference:
-  ICML'23/24, ICLR'24/25, NeurIPS'23/24
-  CVPR'24/25, AAAI'23/24/25,ACM MM'23/24,
-  WWW'24, KDD'23/24, CIKM'24
+  ICML'23/24/25, ICLR'24/25, NeurIPS'23/24/25
+  CVPR'24/25,ICCV'25, AAAI'23/24,ACM MM'23/24/25,
+  WWW'24, KDD'23/24/25, CIKM'24
   
 - PC for Journal:
   IEEE TNNLS/TCSVT/TKDE/TCSS
