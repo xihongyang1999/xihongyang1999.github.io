@@ -24,6 +24,7 @@ My research interests include graph neural networks, recommender system, and LLM
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2025. 
 - *2025.02*: &nbsp;🎉🎉 One paper has been accepted by TKDE 2025. 
 - *2024.11*: &nbsp;🎉🎉 One paper has been accepted by ICDE 2025. 
 - *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
