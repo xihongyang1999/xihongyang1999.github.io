@@ -24,6 +24,7 @@ My research interests include graph neural networks, recommender system, and LLM
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ICML 2025. 
 - *2025.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2025. 
 - *2025.02*: &nbsp;🎉🎉 One paper has been accepted by TKDE 2025. 
 - *2024.11*: &nbsp;🎉🎉 One paper has been accepted by ICDE 2025. 
@@ -51,7 +52,19 @@ My research interests include graph neural networks, recommender system, and LLM
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/DT3OR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/DT3OR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios (**Spotlight**)]
+
+**Xihong Yang**, Siwei Wang, Fangdi Wang, Jiaqi Jin, Suyuan Liu, Yue Liu, En Zhu, Xinwang Liu, Yueming Jin
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We reformulate the noise identification as an anomaly identification problem, solving it by GMM. Based on the results, we propose a hybrid rectification strategy to automatically correct the noisy data.
+- A noise-robust contrastive mechanism is proposed to generate more reliable representations. Besides, we theoretically prove that the generated representations could discard noisy information to benefit the downstream task.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/ICML.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual Test-time Training for Out-of-distribution Recommender System](https://arxiv.org/pdf/2407.15620) 
