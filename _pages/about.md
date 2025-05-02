@@ -52,7 +52,7 @@ My research interests include graph neural networks, recommender system, and LLM
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/DT3OR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios (**Spotlight**)]
@@ -64,7 +64,7 @@ My research interests include graph neural networks, recommender system, and LLM
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/ICML.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/DT3OR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual Test-time Training for Out-of-distribution Recommender System](https://arxiv.org/pdf/2407.15620) 
