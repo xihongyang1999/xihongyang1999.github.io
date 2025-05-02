@@ -55,7 +55,7 @@ My research interests include graph neural networks, recommender system, and LLM
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios (**Spotlight**)]
+Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios (**Spotlight**)
 
 **Xihong Yang**, Siwei Wang, Fangdi Wang, Jiaqi Jin, Suyuan Liu, Yue Liu, En Zhu, Xinwang Liu, Yueming Jin
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
