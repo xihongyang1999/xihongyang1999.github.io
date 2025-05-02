@@ -171,6 +171,9 @@ Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clusterin
 
 
 
+- Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios (**Spotlight**), **Xihong Yang**, Siwei Wang, Fangdi Wang, Jiaqi Jin, Suyuan Liu, Yue Liu, En Zhu, Xinwang Liu, Yueming Jin, ICML 2025, **CCF-A**.
+- Hyperbolic Graph Transformer for Collaborative Filtering, Xin Yang, Xingrun Li, Heng Chang, Yang jinze, **Xihong Yang**, Shengyu Tao, Maiko Shigeno, Ningkang Chang, Junfeng Wang, Dawei Yin, Erxue Min, ICML 2025, **CCF-A**.
+- Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning, Yuzhuo Dai, Jiaqi Jin, Zhibin Dong, Siwei Wang, Xinwang Liu, En Zhu, **Xihong Yang**, Xinbiao Gan, Yu Feng, CVPR 2025, **CCF-A**.   
 - Dual Test-time Training for Out-of-distribution Recommender System, **Xihong Yang**, Yiqi Wang, Jin Chen, Wenqi Fan, Xiangyu Zhao, Xinwang Liu, En Zhu, Defu Lian, TKDE 2025, **CCF-A**.
 - Darec: A disentangled alignment framework for large language model and recommender system, **Xihong Yang**, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, Xinwang Liu, En Zhu, Defu Lian, Erxue Min, ICDE 2025, **CCF-A**.
 - Evaluate then Cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering, Fangdi Wang, Jiaqi Jin, Jingtao Hu, Suyuan Liu, **Xihong Yang**, Siwei Wang, Xinwang Liu, En Zhu, NeurIPS 2024, **CCF-A**.
