@@ -19,12 +19,17 @@ redirect_from:
 
 I am a Ph.D student at College of Computer Science and Technology, <a href="https://english.nudt.edu.cn/">National University of Defence Technology (NUDT)</a>. My supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a> and Prof. En Zhu in Pattern Recognition Machine Intelligence Lab (PRMI). Now, I am a visiting Ph.D student in <a href="https://www.nus.edu.sg/">National University of Singapore</a> supervised by Prof. <a href="https://yuemingjin.github.io/">Yueming Jin</a>.
 
-My research interests include graph neural networks, recommender system, and LLM. I have published serveral papers at the top international AI conferences and journals, such AAAI, ICDE, ACM MM, NeurIPS, ICML, CVPR, TNNLS, TKDD, TKDE...
+My research interests include graph neural networks, recommender system, and LLM. I have published serveral papers at the top international AI conferences and journals, such AAAI, ICDE, ACM MM, ICCV, NeurIPS, ICML, CVPR, TNNLS, TKDD, TKDE...
+
+<div style="border-left: 6px solid #f66; padding: 1em; background: #fff5f5; margin: 1.5em 0; font-size: 16px;">
+  <strong>📢 I will graduate in December 2025 and am currently seeking job opportunities.</strong><br>
+  If you are interested in my work, please feel free to reach out to me via email (xihong_edu@163.com).
+</div>
 
 
 # 🔥 News
 <!-- 🔥 News (scrollable vertically) -->
-<div style="max-height: 160px; overflow-y: auto; padding: 10px; border: 1px solid #eaeaea; background-color: #fdfdfd;">
+<div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #eaeaea; background-color: #fdfdfd;">
   <ul style="margin: 0; padding-left: 1.2em;">
     <li><strong>2025.06</strong>: 🎉🎉 Two papers have been accepted by ICCV 2025.</li>
     <li><strong>2025.05</strong>: 🎉🎉 Two papers have been accepted by ICML 2025.</li>
