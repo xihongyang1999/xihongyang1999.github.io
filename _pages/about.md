@@ -19,17 +19,23 @@ redirect_from:
 
 I am a Ph.D student at College of Computer Science and Technology, <a href="https://english.nudt.edu.cn/">National University of Defence Technology (NUDT)</a>. My supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a> and Prof. En Zhu in Pattern Recognition Machine Intelligence Lab (PRMI). Now, I am a visiting Ph.D student in <a href="https://www.nus.edu.sg/">National University of Singapore</a> supervised by Prof. <a href="https://yuemingjin.github.io/">Yueming Jin</a>.
 
-My research interests include graph neural networks, recommender system, and LLM. I have published serveral papers at the top international AI conferences and journals, such AAAI, ICDE, ACM MM, ICCV, NeurIPS, ICML, CVPR, TNNLS, TKDD, TKDE...
+My research interests lie at the intersection of recommender systems, graph learning, and multimodal AI. In particular, I focus on:
+<ul>
+    <li>🔍 <strong>Post-training alignment for large-scale recommender systems</strong></li>
+    <li>🧠 <strong>Self-supervised graph representation learning</strong></li>
+    <li>🌐 <strong>Complex multimodal learning systems</strong></li>
+</ul>
+I have published several papers in top-tier international AI conferences and journals, including AAAI, ICDE, ACM MM, ICCV, NeurIPS, ICML, CVPR, TNNLS, TKDD, and TKDE.
 
 <div style="border-left: 6px solid #f66; padding: 1em; background: #fff5f5; margin: 1.5em 0; font-size: 16px;">
   <strong>📢 I will graduate in December 2025 and am currently seeking job opportunities.</strong><br>
-  If you are interested in my work, please feel free to reach out to me via email (xihong_edu@163.com).
+  If you are interested in my work, please feel free to reach out to me via email (xihong_edu@163.com) or Wechat (codingyang1202).
 </div>
 
 
 # 🔥 News
 <!-- 🔥 News (scrollable vertically) -->
-<div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #eaeaea; background-color: #fdfdfd;">
+<div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #eaeaea; background-color: #fdfdfd;">
   <ul style="margin: 0; padding-left: 1.2em;">
     <li><strong>2025.06</strong>: 🎉🎉 Two papers have been accepted by ICCV 2025.</li>
     <li><strong>2025.05</strong>: 🎉🎉 Two papers have been accepted by ICML 2025.</li>
@@ -62,6 +68,18 @@ My research interests include graph neural networks, recommender system, and LLM
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/CauMVC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence
+
+**Xihong Yang**, Siwei Wang, Jiaqi Jin, Fangdi Wang, Tianrui Liu, Yueming Jin, Xinwang Liu, En Zhu, Kunlun He
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We consider the model performance decreasing caused by data shift (i.e., from fully to partially aligned) as a generalized problem, formulating and solving it from causal perspective.
+- We design a causal multi-view clustering network, employing causal modeling and inference to tackle the shift in multi-view input. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
