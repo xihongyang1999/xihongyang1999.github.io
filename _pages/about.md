@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D student at College of Computer Science and Technology, <a href="https://english.nudt.edu.cn/">National University of Defence Technology (NUDT)</a>. My supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a> and Prof. En Zhu in Pattern Recognition Machine Intelligence Lab (PRMI). Now, I am a visiting Ph.D student in <a href="https://www.nus.edu.sg/">National University of Singapore</a> supervised by Prof. <a href="https://yuemingjin.github.io/">Yueming Jin</a>.
+I am a Ph.D student at College of Computer Science and Technology, <a href="https://english.nudt.edu.cn/">National University of Defence Technology (NUDT)</a>. My supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a> and Prof. En Zhu in Pattern Recognition Machine Intelligence Lab (PRMI). Now, I am a visiting Ph.D student in <a href="https://www.nus.edu.sg/">National University of Singapore</a> supervised by Prof. <a href="https://yuemingjin.github.io/">Yueming Jin</a>. I have published several papers in top-tier international AI conferences and journals, including AAAI, ICDE, ACM MM, ICCV, NeurIPS, ICML, CVPR, TNNLS, TKDD, and TKDE.
+
 
 My research interests lie at the intersection of recommender systems, graph learning, and multimodal AI. In particular, I focus on:
 <ul>
@@ -25,7 +26,6 @@ My research interests lie at the intersection of recommender systems, graph lear
     <li>🧠 <strong>Self-supervised graph representation learning</strong></li>
     <li>🌐 <strong>Complex multi-modal/view learning systems</strong></li>
 </ul>
-I have published several papers in top-tier international AI conferences and journals, including AAAI, ICDE, ACM MM, ICCV, NeurIPS, ICML, CVPR, TNNLS, TKDD, and TKDE.
 
 <div style="border-left: 6px solid #f66; padding: 1em; background: #fff5f5; margin: 1.5em 0; font-size: 16px;">
   <strong>📢 I will graduate in December 2025 and am currently seeking job opportunities.</strong><br>
