@@ -22,7 +22,7 @@ I am a Ph.D student at College of Computer Science and Technology, <a href="http
 My research interests include graph neural networks, recommender system, and LLM. I have published serveral papers at the top international AI conferences and journals, such AAAI, ICDE, ACM MM, NeurIPS, ICML, CVPR, TNNLS, TKDD, TKDE...
 
 
-
+# 🔥 News
 <!-- 🔥 News (scrollable vertically) -->
 <div style="max-height: 160px; overflow-y: auto; padding: 10px; border: 1px solid #eaeaea; background-color: #fdfdfd;">
   <ul style="margin: 0; padding-left: 1.2em;">
