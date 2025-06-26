@@ -200,6 +200,8 @@ Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clusterin
 
 
 
+- Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence, **Xihong Yang**, Siwei Wang, Jiaqi Jin, Fangdi Wang, Tianrui Liu, Yueming Jin, Xinwang Liu, En Zhu, Kunlun He, ICCV 2025, **CCF-A**.
+- Deep Incomplete Multi-view Clustering with Distribution Dual-Consistency Recovery Guidance, Jiaqi Jin, Siwei Wang, Zhibin Dong, **Xihong Yang**, Xinwang Liu, En Zhu, Kunlun He, ICCV 2025, **CCF-A**.
 - Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios (**Spotlight**), **Xihong Yang**, Siwei Wang, Fangdi Wang, Jiaqi Jin, Suyuan Liu, Yue Liu, En Zhu, Xinwang Liu, Yueming Jin, ICML 2025, **CCF-A**.
 - Hyperbolic Graph Transformer for Collaborative Filtering, Xin Yang, Xingrun Li, Heng Chang, Yang jinze, **Xihong Yang**, Shengyu Tao, Maiko Shigeno, Ningkang Chang, Junfeng Wang, Dawei Yin, Erxue Min, ICML 2025, **CCF-A**.
 - Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning, Yuzhuo Dai, Jiaqi Jin, Zhibin Dong, Siwei Wang, Xinwang Liu, En Zhu, **Xihong Yang**, Xinbiao Gan, Yu Feng, CVPR 2025, **CCF-A**.   
