@@ -21,9 +21,9 @@ I am a Ph.D student at College of Computer Science and Technology, <a href="http
 
 My research interests lie at the intersection of recommender systems, graph learning, and multimodal AI. In particular, I focus on:
 <ul>
-    <li>🔍 <strong>Post-training alignment for large-scale recommender systems</strong></li>
+    <li>🔍 <strong>Post-training alignment for large language model and recommender systems</strong></li>
     <li>🧠 <strong>Self-supervised graph representation learning</strong></li>
-    <li>🌐 <strong>Complex multimodal learning systems</strong></li>
+    <li>🌐 <strong>Complex multi-modal/view learning systems</strong></li>
 </ul>
 I have published several papers in top-tier international AI conferences and journals, including AAAI, ICDE, ACM MM, ICCV, NeurIPS, ICML, CVPR, TNNLS, TKDD, and TKDE.
 
