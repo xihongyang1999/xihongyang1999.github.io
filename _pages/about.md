@@ -248,12 +248,13 @@ Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clusterin
 # 💻 Services
 - PC for Conference:
   ICML'23/24/25, ICLR'24/25, NeurIPS'23/24/25
-  CVPR'24/25,ICCV'25, AAAI'23/24,ACM MM'23/24/25,
-  WWW'24, KDD'23/24/25, CIKM'24
+  CVPR'24/25,ICCV'25, AAAI'23/24, ACM MM'23/24/25,
+  WWW'24, KDD'23/24/25, CIKM'24/25, IJCAI'25
   
 - PC for Journal:
-  IEEE TNNLS/TCSVT/TKDE/TCSS
+  IEEE TNNLS/TCSVT/TKDE/TCSS/TMM
   ACM TKDD/TOMM
+  KBS, NN, Information Fusion
 
 
 # 📖 Educations
@@ -264,7 +265,7 @@ Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clusterin
 - *2021.09 - 2023.02*, Master Student @ <a href="https://english.nudt.edu.cn/">National University of Defence Technology</a>, supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a>
 
 
-# 💬 Invited Talks
+# 💬 Oral Presentation
 - *2023.10*, ACM MM Oral Presentation.
 - *2022.11*, AAAI Oral Presentation.
-
+- *2025.05*, ICDE Oral Presentation
