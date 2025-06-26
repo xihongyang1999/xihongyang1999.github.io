@@ -23,32 +23,38 @@ My research interests include graph neural networks, recommender system, and LLM
 
 
 
-# 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ICML 2025. 
-- *2025.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2025. 
-- *2025.02*: &nbsp;🎉🎉 One paper has been accepted by TKDE 2025. 
-- *2024.11*: &nbsp;🎉🎉 One paper has been accepted by ICDE 2025. 
-- *2024.11*: &nbsp;🎉🎉 I won the China National Scholarship for Phd Students.
-- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024.
-- *2024.07*: &nbsp;🎉🎉 I was awarded the China Scholarship Countil Scholarship.
-- *2024.07*: &nbsp;🎉🎉 Three papers have been accepted by ACM MM 2024.
-- *2024.05*: &nbsp;🎉🎉 One paper has been accepted by IEEE TNNLS 2024.
-- *2024.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2024.
-- *2024.01*: &nbsp;🎉🎉 Two papers have been accepted by ACM TKDD 2024.
-- *2024.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE TNNLS 2024.
-- *2023.12*: &nbsp;🎉🎉 Two papers have been accepted by AAAI 2024.
-- *2023.12*: &nbsp;🎉🎉 One paper has been accepted by ICDE 2024.
-- *2023.07*: &nbsp;🎉🎉 Five papers have been accepted by ACM MM 2023.
-- *2023.07*: &nbsp;🎉🎉 One paper has been accepted by IEEE TNNLS 2023.
-- *2023.06*: &nbsp;🎉🎉 One paper has been accepted by IEEE TKDE 2023.
-- *2023.04*: &nbsp;🎉🎉 One paper has been accepted by ICML 2023.
-- *2023.04*: &nbsp;🎉🎉 One paper has been accepted by IEEE TNNLS 2023.
-- *2023.04*: &nbsp;🎉🎉 One paper has been accepted by IEEE TAI 2023.
-- *2022.12*: &nbsp;🎉🎉 I won the China National Scholarship for Graduate Students.
-- *2022.11*: &nbsp;🎉🎉 Two papers have been accepted by AAAI 2023.
-- *2022.06*: &nbsp;🎉🎉 One paper has been accepted by IEEE TNNLS 2022.
-- *2021.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2022.
-- *2020.12*: &nbsp;🎉🎉 I won the China National Scholarship for Undergraduate Students.
+<!-- 🔥 News (scrollable vertically) -->
+<div style="max-height: 160px; overflow-y: auto; padding: 10px; border: 1px solid #eaeaea; background-color: #fdfdfd;">
+  <ul style="margin: 0; padding-left: 1.2em;">
+    <li><strong>2025.06</strong>: 🎉🎉 Two papers have been accepted by ICCV 2025.</li>
+    <li><strong>2025.05</strong>: 🎉🎉 Two papers have been accepted by ICML 2025.</li>
+    <li><strong>2025.02</strong>: 🎉🎉 One paper has been accepted by CVPR 2025.</li>
+    <li><strong>2025.02</strong>: 🎉🎉 One paper has been accepted by TKDE 2025.</li>
+    <li><strong>2024.11</strong>: 🎉🎉 One paper has been accepted by ICDE 2025.</li>
+    <li><strong>2024.11</strong>: 🎉🎉 I won the China National Scholarship for PhD Students.</li>
+    <li><strong>2024.09</strong>: 🎉🎉 One paper has been accepted by NeurIPS 2024.</li>
+    <li><strong>2024.07</strong>: 🎉🎉 I was awarded the China Scholarship Council Scholarship.</li>
+    <li><strong>2024.07</strong>: 🎉🎉 Three papers have been accepted by ACM MM 2024.</li>
+    <li><strong>2024.05</strong>: 🎉🎉 One paper has been accepted by IEEE TNNLS 2024.</li>
+    <li><strong>2024.02</strong>: 🎉🎉 One paper has been accepted by CVPR 2024.</li>
+    <li><strong>2024.01</strong>: 🎉🎉 Two papers have been accepted by ACM TKDD 2024.</li>
+    <li><strong>2024.01</strong>: 🎉🎉 One paper has been accepted by IEEE TNNLS 2024.</li>
+    <li><strong>2023.12</strong>: 🎉🎉 Two papers have been accepted by AAAI 2024.</li>
+    <li><strong>2023.12</strong>: 🎉🎉 One paper has been accepted by ICDE 2024.</li>
+    <li><strong>2023.07</strong>: 🎉🎉 Five papers have been accepted by ACM MM 2023.</li>
+    <li><strong>2023.07</strong>: 🎉🎉 One paper has been accepted by IEEE TNNLS 2023.</li>
+    <li><strong>2023.06</strong>: 🎉🎉 One paper has been accepted by IEEE TKDE 2023.</li>
+    <li><strong>2023.04</strong>: 🎉🎉 One paper has been accepted by ICML 2023.</li>
+    <li><strong>2023.04</strong>: 🎉🎉 One paper has been accepted by IEEE TNNLS 2023.</li>
+    <li><strong>2023.04</strong>: 🎉🎉 One paper has been accepted by IEEE TAI 2023.</li>
+    <li><strong>2022.12</strong>: 🎉🎉 I won the China National Scholarship for Graduate Students.</li>
+    <li><strong>2022.11</strong>: 🎉🎉 Two papers have been accepted by AAAI 2023.</li>
+    <li><strong>2022.06</strong>: 🎉🎉 One paper has been accepted by IEEE TNNLS 2022.</li>
+    <li><strong>2021.12</strong>: 🎉🎉 One paper has been accepted by AAAI 2022.</li>
+    <li><strong>2020.12</strong>: 🎉🎉 I won the China National Scholarship for Undergraduate Students.</li>
+  </ul>
+</div>
+
 
 # 📝 Publications 
 
