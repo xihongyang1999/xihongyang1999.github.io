@@ -77,8 +77,7 @@ My research interests lie at the intersection of recommender systems, graph lear
 Erxue Min∗, Hsiu-Yuan Huang∗, **Xihong Yang∗**, Min Yang, Xin Jia, Yunfang Wu, Hengyi Cai, Junfeng Wang, Shuaiqiang Wang, Dawei Yin
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a Multi-Source CTR Modeling module that captures diverse contextual signals to estimate fine-grained click-through rates;
-- We design a Diversity-Aware Preference Alignment strategy using CTR-weighted Direct Preference Optimization (DPO), which balances relevance and semantic diversity;
-- We design a CTR-Calibrated Iterative Optimization process that jointly refines the CTR and generation models across training rounds.
+- We design a Diversity-Aware Preference Alignment strategy using CTR-weighted Direct Preference Optimization (DPO), which balances relevance and semantic diversity and design a CTR-Calibrated Iterative Optimization process that jointly refines the CTR and generation models across training rounds.
 </div>
 </div>
 
@@ -92,7 +91,6 @@ Erxue Min∗, Hsiu-Yuan Huang∗, **Xihong Yang∗**, Min Yang, Xin Jia, Yunfang
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We unify diverse query recommendation tasks by a universal prompt framework, leveraging the instruct-following capability of LLMs for effective generation.
 - We align LLMs with user feedback via presenting a CTR-alignment framework, which involves training a query-wise CTR predictor as a process reward model and employing list-wise preference alignment to maximize the click probability of the generated query list.
-- Recognizing the inconsistency between LLM knowledge and proactive search intents arising from the separation of user-initiated queries from models, we align LLMs with user initiative via retrieving co-occurrence queries as side information when historical logs are available. 
 </div>
 </div>
 
