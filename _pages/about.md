@@ -69,12 +69,12 @@ My research interests lie at the intersection of recommender systems, graph lear
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GQS.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GQS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CTR-Guided Generative Query Suggestion in Conversational Search](https://arxiv.org/pdf/2507.04072)
 
-Erxue Min1∗, Hsiu-Yuan Huang∗, **Xihong Yang∗**, Min Yang, Xin Jia, Yunfang Wu, Hengyi Cai, Junfeng Wang, Shuaiqiang Wang, Dawei Yin
+Erxue Min∗, Hsiu-Yuan Huang∗, **Xihong Yang∗**, Min Yang, Xin Jia, Yunfang Wu, Hengyi Cai, Junfeng Wang, Shuaiqiang Wang, Dawei Yin
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a Multi-Source CTR Modeling module that captures diverse contextual signals to estimate fine-grained click-through rates;
 - We design a Diversity-Aware Preference Alignment strategy using CTR-weighted Direct Preference Optimization (DPO), which balances relevance and semantic diversity;
@@ -83,12 +83,12 @@ Erxue Min1∗, Hsiu-Yuan Huang∗, **Xihong Yang∗**, Min Yang, Xin Jia, Yunfan
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GQR.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GQR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Prompting to Alignment: A Generative Framework for Query Recommendation](http://arxiv.org/abs/2504.10208)
 
-Erxue Min1∗, Hsiu-Yuan Huang∗, **Xihong Yang∗**, Min Yang, Xin Jia, Yunfang Wu, Hengyi Cai, Junfeng Wang, Shuaiqiang Wang, Dawei Yin
+Erxue Min∗, Hsiu-Yuan Huang∗, **Xihong Yang∗**, Min Yang, Xin Jia, Yunfang Wu, Hengyi Cai, Junfeng Wang, Shuaiqiang Wang, Dawei Yin
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We unify diverse query recommendation tasks by a universal prompt framework, leveraging the instruct-following capability of LLMs for effective generation.
 - We align LLMs with user feedback via presenting a CTR-alignment framework, which involves training a query-wise CTR predictor as a process reward model and employing list-wise preference alignment to maximize the click probability of the generated query list.
