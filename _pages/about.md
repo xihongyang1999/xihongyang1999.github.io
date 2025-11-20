@@ -37,6 +37,8 @@ My research interests lie at the intersection of recommender systems, graph lear
 <!-- 🔥 News (scrollable vertically) -->
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #eaeaea; background-color: #fdfdfd;">
   <ul style="margin: 0; padding-left: 1.2em;">
+    <li><strong>2025.11</strong>: 🎉🎉 I won the China National Scholarship for PhD Students.</li>
+    <li><strong>2025.09</strong>: 🎉🎉 One paper has been accepted by EMNLP 2025.</li>
     <li><strong>2025.06</strong>: 🎉🎉 Two papers have been accepted by ICCV 2025.</li>
     <li><strong>2025.05</strong>: 🎉🎉 Two papers have been accepted by ICML 2025.</li>
     <li><strong>2025.02</strong>: 🎉🎉 One paper has been accepted by CVPR 2025.</li>
@@ -69,7 +71,7 @@ My research interests lie at the intersection of recommender systems, graph lear
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GQS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP</div><img src='images/GQS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CTR-Guided Generative Query Suggestion in Conversational Search](https://arxiv.org/pdf/2507.04072)
