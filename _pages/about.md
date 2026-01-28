@@ -27,16 +27,17 @@ My research interests lie at the intersection of recommender systems, graph lear
     <li>🌐 <strong>Complex multi-modal/view learning systems</strong></li>
 </ul>
 
-<div style="border-left: 6px solid #f66; padding: 1em; background: #fff5f5; margin: 1.5em 0; font-size: 16px;">
+<!-- <div style="border-left: 6px solid #f66; padding: 1em; background: #fff5f5; margin: 1.5em 0; font-size: 16px;">
   <strong>📢 I will graduate in December 2025 and am currently seeking job opportunities.</strong><br>
   If you are interested in my work, please feel free to reach out to me via email (xihong_edu@163.com) or Wechat (codingyang1202).
-</div>
+</div> -->
 
 
 # 🔥 News
 <!-- 🔥 News (scrollable vertically) -->
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #eaeaea; background-color: #fdfdfd;">
   <ul style="margin: 0; padding-left: 1.2em;">
+    <li><strong>2026.01</strong>: 🎉🎉 One paper has been accepted by ICLR 2026.</li>
     <li><strong>2025.11</strong>: 🎉🎉 I won the China National Scholarship for PhD Students.</li>
     <li><strong>2025.09</strong>: 🎉🎉 One paper has been accepted by EMNLP 2025.</li>
     <li><strong>2025.06</strong>: 🎉🎉 Two papers have been accepted by ICCV 2025.</li>
@@ -269,6 +270,7 @@ Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clusterin
 - *2020.09 - 2020.11*, [PICO](https://www.picoxr.com/cn), China.
 
 # 🎖 Honors and Awards
+- *2025.11* I won the China National Scholarship for Phd Students.
 - *2024.11* I won the China National Scholarship for Phd Students.
 - *2024.07* I was awarded the China Scholarship Countil Scholarship.
 - *2022.11* I won the China National Scholarship for Graduate Students.
@@ -276,14 +278,15 @@ Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clusterin
 
 # 💻 Services
 - PC for Conference:
-  ICML'23/24/25, ICLR'24/25, NeurIPS'23/24/25
-  CVPR'24/25,ICCV'25, AAAI'23/24, ACM MM'23/24/25,
-  WWW'24, KDD'23/24/25, CIKM'24/25, IJCAI'25
+  ICML, ICLR, NeurIPS
+  CVPR,ICCV,ECCV
+  AAAI, ACM MM, IJCAI
+  WWW, KDD, CIKM
   
 - PC for Journal:
-  IEEE TNNLS/TCSVT/TKDE/TCSS/TMM
-  ACM TKDD/TOMM
-  KBS, NN, Information Fusion
+  IEEE TPAMI/TIP/TNNLS/TCSVT/TKDE/TCSS/TMM
+  ACM TKDD/TOMM/TOIS
+  KBS, NN, Information Fusion, PR, Information Science, ESWA
 
 
 # 📖 Educations
